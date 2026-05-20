@@ -1,4 +1,4 @@
-# About Me!:
+# About Me!
 Hi 👋, I’m Ranjana — an aspiring AI Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems.<br><br>I enjoy creating projects around:<br>🤖 AI Agents & Automation<br>🧠 RAG Pipelines & LLM Applications<br>⚡ Full-Stack Web Development<br>📊 Data & Research Tools<br>☁️ Cloud & DevOps Workflows<br><br>Currently, I’m focused on:<br>🚀 Building production-ready AI applications<br>🔍 Exploring Agentic AI workflows<br>🛠️ Learning scalable backend & cloud systems<br>📚 Improving problem-solving and system design skills<br><br>I believe in learning by building, experimenting fast, and continuously improving through real projects.
 
 
