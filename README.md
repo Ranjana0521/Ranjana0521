@@ -2,7 +2,7 @@
 Hi 👋, I’m Ranjana — an aspiring AI Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems.<br><br>I enjoy creating projects around:<br>🤖 AI Agents & Automation<br>🧠 RAG Pipelines & LLM Applications<br>⚡ Full-Stack Web Development<br>📊 Data & Research Tools<br>☁️ Cloud & DevOps Workflows<br><br>Currently, I’m focused on:<br>🚀 Building production-ready AI applications<br>🔍 Exploring Agentic AI workflows<br>🛠️ Learning scalable backend & cloud systems<br>📚 Improving problem-solving and system design skills<br><br>I believe in learning by building, experimenting fast, and continuously improving through real projects.
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ranjana__gowda_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranjana-h-21052005-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjanah0521@gmail.com) 
 
 # 💻 Tech Stack:
